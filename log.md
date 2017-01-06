@@ -5,7 +5,16 @@
 **Today's Progress**: Styled the Simon game. 
 
 **Thoughts:** Practicing the use of flex vs position:absolute. usually would go for flex, but this seems like actually a place for position.
+
 **Link to work:** no link - for some reason can't push to github...
+
+### Day 2: January 6, 2017
+
+**Today's Progress**: Finished the basic Simon Game.
+
+**Thoughts:** Major problem with the game was making the different colors animate. Used document.querySelector, setTimeout and setInterval, felt like a major hack- need to figure out how to do it with React.
+
+**Link to work:** https://github.com/chiptus/fcc-projects/tree/master/simon-game
 
 <!--
 ### Day NUMBER: DATE
