@@ -16,12 +16,22 @@
 
 **Link to work:** https://github.com/chiptus/fcc-projects/tree/master/simon-game
 
+### Day 3: January 7, 2017
+
+**Today's Progress**: Moved simon game to use create-react-app for clearer code. Uploaded to github and submitted to FCC
+
+**Thoughts:** Was going to ask for my certificate, but I want to go over the projects and see if there's any change I want to do. Additionaly I should add an about page to my code saying what packages I use (jQuery, bootstrap, etc. )
+
+**Link to work:** https://chiptus.github.io/fcc-projects/simon-game/
+
+
 <!--
 ### Day NUMBER: DATE
 
 **Today's Progress**: 
 
 **Thoughts:** 
+
 **Link to work:** 
 
 
