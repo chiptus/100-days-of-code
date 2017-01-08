@@ -24,6 +24,13 @@
 
 **Link to work:** https://chiptus.github.io/fcc-projects/simon-game/
 
+### Day 4: Januray 8, 2017
+
+**Today's Progress**: Started backend part of FCC - node!
+
+**Thoughts:** Node is nice.
+
+**Link to work:** https://github.com/chiptus/learnyounode-solutions 
 
 <!--
 ### Day NUMBER: DATE
