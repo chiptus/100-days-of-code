@@ -32,6 +32,14 @@
 
 **Link to work:** https://github.com/chiptus/learnyounode-solutions 
 
+### Day 5-6: January 14-15, 2017
+
+**Today's Progress**: Started a new react native app that goes along with my dutch studies
+
+**Thoughts:** Forgot to fill this for a few days, and I have no idea how many days I worked before. how to continue?
+
+**Link to work:** https://github.com/chiptus/de-of-het
+
 <!--
 ### Day NUMBER: DATE
 
