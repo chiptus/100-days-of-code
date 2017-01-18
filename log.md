@@ -56,7 +56,13 @@
 
 **Link to work:** http://chiptus.github.io/street-view-examples
 
+### Day 9: January 18, 2017
 
+**Today's Progress**: Added functionality to de of het game. Directory structure
+
+**Thoughts:** Where should I put all my code? I think my app.js component is too bloated
+
+**Link to work:** https://github.com/chiptus/de-of-het
 <!--
 ### Day NUMBER: DATE
 
