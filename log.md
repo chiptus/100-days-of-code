@@ -40,6 +40,23 @@
 
 **Link to work:** https://github.com/chiptus/de-of-het
 
+### Day 7: Januray 16, 2017
+
+**Today's Progress**: Styling the "De of het" app
+
+**Thoughts:** It's not as easier as it sounds all this app business
+
+**Link to work:** https://github.com/chiptus/de-of-het
+
+### Day 8: Januray 17, 2017
+
+**Today's Progress**: Working on Street view maps, learning its API
+
+**Thoughts:** Got much more progress than I thought
+
+**Link to work:** http://chiptus.github.io/street-view-examples
+
+
 <!--
 ### Day NUMBER: DATE
 
