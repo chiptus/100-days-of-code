@@ -63,6 +63,16 @@
 **Thoughts:** Where should I put all my code? I think my app.js component is too bloated
 
 **Link to work:** https://github.com/chiptus/de-of-het
+
+### Day 10: Januray 19, 2017
+
+**Today's Progress**: Build a game object to contain the code outside of react.
+
+**Thoughts:** Thoughts about folder structure, code structure.
+
+**Link to work:** https://github.com/chiptus/de-of-het
+
+
 <!--
 ### Day NUMBER: DATE
 
