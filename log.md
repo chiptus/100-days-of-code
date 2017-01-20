@@ -72,6 +72,13 @@
 
 **Link to work:** https://github.com/chiptus/de-of-het
 
+### Day 11: Januray 20, 2017
+
+**Today's Progress**: Navigation for the de of het game
+
+**Thoughts:** Still not sure about how to structure the app.
+
+**Link to work:** https://github.com/chiptus/de-of-het
 
 <!--
 ### Day NUMBER: DATE
