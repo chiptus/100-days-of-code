@@ -99,6 +99,15 @@
 
 **Link to work:** chiptus-timestamp-ms.herokuapp.com/timestamp-microservice/
 
+
+### Day 12: January 22, 2017
+
+**Today's Progress**: Learning about gestures in react-native.
+
+**Thoughts:** Need more understanding in that.
+
+**Link to work:** no link
+
 <!--
 ### Day NUMBER: DATE
 
