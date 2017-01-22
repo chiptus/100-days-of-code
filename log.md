@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day 1: December 31, 2016
 
 **Today's Progress**: Styled the Simon game. 
@@ -7,6 +8,7 @@
 **Thoughts:** Practicing the use of flex vs position:absolute. usually would go for flex, but this seems like actually a place for position.
 
 **Link to work:** no link - for some reason can't push to github...
+
 
 ### Day 2: January 6, 2017
 
@@ -16,6 +18,7 @@
 
 **Link to work:** https://github.com/chiptus/fcc-projects/tree/master/simon-game
 
+
 ### Day 3: January 7, 2017
 
 **Today's Progress**: Moved simon game to use create-react-app for clearer code. Uploaded to github and submitted to FCC
@@ -23,6 +26,7 @@
 **Thoughts:** Was going to ask for my certificate, but I want to go over the projects and see if there's any change I want to do. Additionaly I should add an about page to my code saying what packages I use (jQuery, bootstrap, etc. )
 
 **Link to work:** https://chiptus.github.io/fcc-projects/simon-game/
+
 
 ### Day 4: Januray 8, 2017
 
@@ -32,6 +36,7 @@
 
 **Link to work:** https://github.com/chiptus/learnyounode-solutions 
 
+
 ### Day 5-6: January 14-15, 2017
 
 **Today's Progress**: Started a new react native app that goes along with my dutch studies
@@ -39,6 +44,7 @@
 **Thoughts:** Forgot to fill this for a few days, and I have no idea how many days I worked before. how to continue?
 
 **Link to work:** https://github.com/chiptus/de-of-het
+
 
 ### Day 7: Januray 16, 2017
 
@@ -48,6 +54,7 @@
 
 **Link to work:** https://github.com/chiptus/de-of-het
 
+
 ### Day 8: Januray 17, 2017
 
 **Today's Progress**: Working on Street view maps, learning its API
@@ -55,6 +62,7 @@
 **Thoughts:** Got much more progress than I thought
 
 **Link to work:** http://chiptus.github.io/street-view-examples
+
 
 ### Day 9: January 18, 2017
 
@@ -64,6 +72,7 @@
 
 **Link to work:** https://github.com/chiptus/de-of-het
 
+
 ### Day 10: Januray 19, 2017
 
 **Today's Progress**: Build a game object to contain the code outside of react.
@@ -72,6 +81,7 @@
 
 **Link to work:** https://github.com/chiptus/de-of-het
 
+
 ### Day 11: Januray 20, 2017
 
 **Today's Progress**: Navigation for the de of het game
@@ -79,6 +89,15 @@
 **Thoughts:** Still not sure about how to structure the app.
 
 **Link to work:** https://github.com/chiptus/de-of-het
+
+
+### Day xx: January 21, 2017
+
+**Today's Progress**: Finished the first project of fcc backend - timestamp microservice - https://www.freecodecamp.com/challenges/timestamp-microservice
+
+**Thoughts:** Not calling it a day cause didn't work for more than 1 hour. Need to add an explanation for the service
+
+**Link to work:** chiptus-timestamp-ms.herokuapp.com/timestamp-microservice/
 
 <!--
 ### Day NUMBER: DATE
