@@ -108,6 +108,15 @@
 
 **Link to work:** no link
 
+
+### Day 13: January 23, 2017
+
+**Today's Progress**: Worked on gathering an initial db for hetofde, and started another fcc backend challenge
+
+**Thoughts:** Scraping is hard.
+
+**Link to work:** 
+
 <!--
 ### Day NUMBER: DATE
 
