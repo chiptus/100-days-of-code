@@ -117,6 +117,16 @@
 
 **Link to work:** 
 
+
+### Day 14: Januray 25, 2017
+
+**Today's Progress**: Learn more about mongo for fcc-url-shortener and about gesture detection in react-native. Also did some changes to my portfolio
+
+**Thoughts:** Looking forward for tommorow to finish with the gesture detection.
+
+**Link to work:** http://chiptus.github.com, https://github.com/chiptus/fcc-url-shortener, https://github.com/chiptus/de-of-het
+
+
 <!--
 ### Day NUMBER: DATE
 
