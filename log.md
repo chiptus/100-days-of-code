@@ -127,6 +127,13 @@
 **Link to work:** http://chiptus.github.com, https://github.com/chiptus/fcc-url-shortener, https://github.com/chiptus/de-of-het
 
 
+### Day 15: January 26, 2017
+
+**Today's Progress**: Worked on my De-of-Het game. Discovered finally how to make a word object move from side to side. Now it needs to fall, and fly out of screen.
+
+**Thoughts:** I think I need to do some changes to my app structure.
+
+**Link to work:** https://github.com/chiptus/de-of-het
 <!--
 ### Day NUMBER: DATE
 
