@@ -134,6 +134,15 @@
 **Thoughts:** I think I need to do some changes to my app structure.
 
 **Link to work:** https://github.com/chiptus/de-of-het
+
+
+### Day 16: February 1, 2017
+
+**Today's Progress**: Worked on my doh app - navigation
+
+**Thoughts:** I will need to build the whole app from beginning
+
+**Link to work:** https://github.com/chiptus/de-of-het
 <!--
 ### Day NUMBER: DATE
 
