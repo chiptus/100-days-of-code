@@ -143,6 +143,16 @@
 **Thoughts:** I will need to build the whole app from beginning
 
 **Link to work:** https://github.com/chiptus/de-of-het
+
+
+### Day 17: February 12, 2017
+
+**Today's Progress**: HackerRank challenge, doh - falling block
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/chiptus/de-of-het
+
 <!--
 ### Day NUMBER: DATE
 
