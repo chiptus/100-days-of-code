@@ -153,6 +153,14 @@
 
 **Link to work:** https://github.com/chiptus/de-of-het
 
+
+### Day 18: February 14, 2017
+
+**Today's Progress**: Finished two fcc backend challenges, and some more work on my doh app.
+
+**Thoughts:** When will I have a week long streak?
+
+**Link to work:** https://github.com/chiptus/
 <!--
 ### Day NUMBER: DATE
 
