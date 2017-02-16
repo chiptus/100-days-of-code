@@ -161,6 +161,15 @@
 **Thoughts:** When will I have a week long streak?
 
 **Link to work:** https://github.com/chiptus/
+
+
+### Day 19: February 15, 2017
+
+**Today's Progress**: Did a lot. worked on the app and did a working falling blocks example. started working on david's app.
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/chiptus/de-of-het
 <!--
 ### Day NUMBER: DATE
 
