@@ -170,6 +170,25 @@
 **Thoughts:** 
 
 **Link to work:** https://github.com/chiptus/de-of-het
+
+
+### Day 20: February 20, 2017
+
+**Today's Progress**: worked on a new app backend for a friend, and started working on the full stack fcc projects
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 21: February 21, 2017
+
+**Today's Progress**: Learned some mongoose and applied it on both friend's app and the voting app for fcc
+
+**Thoughts:** Mongoose make life easier
+
+**Link to work:** https://github.com/chiptus/fcc-voting-app
+
 <!--
 ### Day NUMBER: DATE
 
