@@ -189,6 +189,14 @@
 
 **Link to work:** https://github.com/chiptus/fcc-voting-app
 
+
+### Day 22: February 22, 2017
+
+**Today's Progress**: Voting app - implemented routes on the api for all use cases and started to work on ui
+
+**Thoughts:** Need to figure out the best structure
+
+**Link to work:** https://github.com/chiptus/fcc-voting-app
 <!--
 ### Day NUMBER: DATE
 
