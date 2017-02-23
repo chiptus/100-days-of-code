@@ -197,6 +197,16 @@
 **Thoughts:** Need to figure out the best structure
 
 **Link to work:** https://github.com/chiptus/fcc-voting-app
+
+
+### Day 23: February 23, 2017
+
+**Today's Progress**: Voting app - trying to implement authentication on seperated client and server
+
+**Thoughts:** Auth?
+
+**Link to work:** https://github.com/chiptus/fcc-voting-app
+
 <!--
 ### Day NUMBER: DATE
 
