@@ -216,6 +216,14 @@
 
 **Link to work:** Not pushed to github yet
 
+
+### Day 25: February 27, 2017
+
+**Today's Progress**: Almost finished courses list on david's app. started implementing my voting app planning. Also finished my first scratch game MVP
+
+**Thoughts:** Planning is really important
+
+**Link to work:** https://scratch.mit.edu/projects/146519520/
 <!--
 ### Day NUMBER: DATE
 
