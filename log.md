@@ -228,12 +228,20 @@
 
 ### Day 26: February 28, 2017
 
-**Today's Progress**: Worked on FCC' voting app, implementing react
+**Today's Progress**: Worked on FCC's voting app, implementing react
 
 **Thoughts:** Redux seems to make life easier and harder at the same time
 
 **Link to work:** https://github.com/chiptus/fcc-voting-app
 
+
+### Day 27: March 1, 2017
+
+**Today's Progress**: cs50x + finish add ingredient page for david
+
+**Thoughts:**
+
+**Link to work:**
 <!--
 ### Day NUMBER: DATE
 
