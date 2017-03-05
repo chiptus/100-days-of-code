@@ -242,6 +242,14 @@
 **Thoughts:**
 
 **Link to work:**
+
+### Day 28: March 5, 2017
+
+**Today's Progress**: implemented poll redux logic for voting app
+
+**Thoughts:** I don't feel like I did so much in one hour
+
+**Link to work:** https://github.com/chiptus/fcc-voting-app
 <!--
 ### Day NUMBER: DATE
 
