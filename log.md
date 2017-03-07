@@ -243,11 +243,30 @@
 
 **Link to work:**
 
+
 ### Day 28: March 5, 2017
 
 **Today's Progress**: implemented poll redux logic for voting app
 
 **Thoughts:** I don't feel like I did so much in one hour
+
+**Link to work:** https://github.com/chiptus/fcc-voting-app
+
+
+### Day 29: March 6, 2017
+
+**Today's Progress**: Started with YDKJS, work on PS1 of CS50x, and built a new-poll-page
+
+**Thoughts:** Voting app is going slowly
+
+**Link to work:** https://github.com/chiptus/fcc-voting-app
+
+
+### Day 30: March 7, 2017
+
+**Today's Progress**: Study machine learning, connect voting app to server
+
+**Thoughts:** Hope to finish the voting app this week
 
 **Link to work:** https://github.com/chiptus/fcc-voting-app
 <!--
