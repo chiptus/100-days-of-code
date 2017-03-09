@@ -269,6 +269,24 @@
 **Thoughts:** Hope to finish the voting app this week
 
 **Link to work:** https://github.com/chiptus/fcc-voting-app
+
+ 
+### Day 31: March 8, 2017
+
+**Today's Progress**: David - start with menus, redux reading, voting visualisation using a pie chart for voting app
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/chiptus/fcc-voting-app
+
+
+### Day 32: March 9, 2017
+
+**Today's Progress**: Authentication for voting app
+
+**Thoughts:** Can I export the authentication module to different apps?
+
+**Link to work:** https://github.com/chiptus/fcc-voting-app
 <!--
 ### Day NUMBER: DATE
 
